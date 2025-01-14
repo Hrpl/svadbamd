@@ -1,0 +1,17 @@
+E:\Form\Form.Infrastructure\bin\Debug\net8.0\Form.Infrastructure.deps.json
+E:\Form\Form.Infrastructure\bin\Debug\net8.0\Form.Infrastructure.runtimeconfig.json
+E:\Form\Form.Infrastructure\bin\Debug\net8.0\Form.Infrastructure.dll
+E:\Form\Form.Infrastructure\bin\Debug\net8.0\Form.Infrastructure.pdb
+E:\Form\Form.Infrastructure\bin\Debug\net8.0\Form.Domain.dll
+E:\Form\Form.Infrastructure\bin\Debug\net8.0\Form.Domain.pdb
+E:\Form\Form.Infrastructure\obj\Debug\net8.0\Form.Infrastructure.csproj.AssemblyReference.cache
+E:\Form\Form.Infrastructure\obj\Debug\net8.0\Form.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Form\Form.Infrastructure\obj\Debug\net8.0\Form.Infrastructure.AssemblyInfoInputs.cache
+E:\Form\Form.Infrastructure\obj\Debug\net8.0\Form.Infrastructure.AssemblyInfo.cs
+E:\Form\Form.Infrastructure\obj\Debug\net8.0\Form.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Form\Form.Infrastructure\obj\Debug\net8.0\Form.Inf.286BEBAD.Up2Date
+E:\Form\Form.Infrastructure\obj\Debug\net8.0\Form.Infrastructure.dll
+E:\Form\Form.Infrastructure\obj\Debug\net8.0\refint\Form.Infrastructure.dll
+E:\Form\Form.Infrastructure\obj\Debug\net8.0\Form.Infrastructure.pdb
+E:\Form\Form.Infrastructure\obj\Debug\net8.0\Form.Infrastructure.genruntimeconfig.cache
+E:\Form\Form.Infrastructure\obj\Debug\net8.0\ref\Form.Infrastructure.dll

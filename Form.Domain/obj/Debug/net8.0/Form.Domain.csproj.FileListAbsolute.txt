@@ -1,0 +1,12 @@
+E:\Form\Form.Domain\bin\Debug\net8.0\Form.Domain.deps.json
+E:\Form\Form.Domain\bin\Debug\net8.0\Form.Domain.dll
+E:\Form\Form.Domain\bin\Debug\net8.0\Form.Domain.pdb
+E:\Form\Form.Domain\obj\Debug\net8.0\Form.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Form\Form.Domain\obj\Debug\net8.0\Form.Domain.AssemblyInfoInputs.cache
+E:\Form\Form.Domain\obj\Debug\net8.0\Form.Domain.AssemblyInfo.cs
+E:\Form\Form.Domain\obj\Debug\net8.0\Form.Domain.csproj.CoreCompileInputs.cache
+E:\Form\Form.Domain\obj\Debug\net8.0\Form.Domain.dll
+E:\Form\Form.Domain\obj\Debug\net8.0\refint\Form.Domain.dll
+E:\Form\Form.Domain\obj\Debug\net8.0\Form.Domain.pdb
+E:\Form\Form.Domain\obj\Debug\net8.0\ref\Form.Domain.dll
+E:\Form\Form.Domain\obj\Debug\net8.0\Form.Domain.csproj.AssemblyReference.cache
