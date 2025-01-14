@@ -45,13 +45,15 @@ public class FormsController : ControllerBase
         try
         {
             var query = _query.Query("Forms").Insert(request);
-            string drink = "";
+            string drink = "<p>Буду пить</p>";
+            string reg = "";
             if (request.BeVodka) drink += "<p>Водка</p>";
             if (request.BeWine) drink += "<p>Вино</p>";
             if (request.BeCongac) drink += "<p>Коньяк</p>";
             if (request.BeChampagne) drink += "<p>Шампанское</p>";
             if (request.DontDrink) drink = "<p>Не буду пить</p>";
-
+            if (request.WillTheRegistration) reg = "<p>Буду на регистрации</p>";
+            else reg = "<p>Не буду на регистрации</p>";
 
             var template = EmailTemplates.Send
                 .Replace("@VisitorName", request.VisitorName)
@@ -59,9 +61,10 @@ public class FormsController : ControllerBase
                 .Replace("@PhoneNumber", request.PhoneNumber)
                 .Replace("@PartnerName", request.PartnerName)
                 .Replace("@ChildrenName", request.ChildrenName)
-                .Replace("@drink", drink);
+                .Replace("@drink", drink)
+                .Replace("@reg", reg);
 
-            var person = new SendEmailDto() { Email = "ponomarevd61@gmail.com", Name = "", Subject = "", MessageBody = template };
+            var person = new SendEmailDto() { Email = "talashok.dasha@yandex.ru", Name = "", Subject = "Notification", MessageBody = template };
 
             await _emailService.SendEmail(person);
 
