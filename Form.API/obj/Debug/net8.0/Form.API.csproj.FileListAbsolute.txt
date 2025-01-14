@@ -133,3 +133,7 @@ E:\Form\Form.API\obj\Debug\net8.0\Form.API.pdb
 E:\Form\Form.API\obj\Debug\net8.0\Form.API.genruntimeconfig.cache
 E:\Form\Form.API\obj\Debug\net8.0\ref\Form.API.dll
 E:\Form\Form.API\bin\Debug\net8.0\ServiceStack.Interfaces.dll
+E:\Form\Form.API\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\Form\Form.API\bin\Debug\net8.0\MailKit.dll
+E:\Form\Form.API\bin\Debug\net8.0\MimeKit.dll
+E:\Form\Form.API\obj\Debug\net8.0\Form.API.sourcelink.json

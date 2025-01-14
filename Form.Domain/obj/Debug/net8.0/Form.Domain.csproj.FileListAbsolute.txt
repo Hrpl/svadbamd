@@ -10,3 +10,4 @@ E:\Form\Form.Domain\obj\Debug\net8.0\refint\Form.Domain.dll
 E:\Form\Form.Domain\obj\Debug\net8.0\Form.Domain.pdb
 E:\Form\Form.Domain\obj\Debug\net8.0\ref\Form.Domain.dll
 E:\Form\Form.Domain\obj\Debug\net8.0\Form.Domain.csproj.AssemblyReference.cache
+E:\Form\Form.Domain\obj\Debug\net8.0\Form.Domain.sourcelink.json

@@ -15,3 +15,4 @@ E:\Form\Form.Infrastructure\obj\Debug\net8.0\refint\Form.Infrastructure.dll
 E:\Form\Form.Infrastructure\obj\Debug\net8.0\Form.Infrastructure.pdb
 E:\Form\Form.Infrastructure\obj\Debug\net8.0\Form.Infrastructure.genruntimeconfig.cache
 E:\Form\Form.Infrastructure\obj\Debug\net8.0\ref\Form.Infrastructure.dll
+E:\Form\Form.Infrastructure\obj\Debug\net8.0\Form.Infrastructure.sourcelink.json
