@@ -14,7 +14,6 @@ public static class EmailTemplates
         <p>Пара: @PartnerName </p>
         <p>Дети: @ChildrenName </p>
         <p>Номер телефона: @PhoneNumber </p>
-        <p>Буду есть: @Food </p>
         <p>@drink</p>
         <p>@reg</p>
      </body>

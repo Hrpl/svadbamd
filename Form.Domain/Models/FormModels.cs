@@ -9,7 +9,6 @@ namespace Form.Domain.Models;
 public class FormModels
 {
     public string VisitorName { get; set; }
-    public string Food {  get; set; }
     public string PhoneNumber { get; set; }
     public string PartnerName { get; set; }
     public string ChildrenName { get; set; }

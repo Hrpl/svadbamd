@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "E:\\Form\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{539C6FDF-08B7-467E-98E8-F7E8DBEF8076}|Form.API\\Form.API.csproj|e:\\form\\form.api\\controllers\\formscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{539C6FDF-08B7-467E-98E8-F7E8DBEF8076}|Form.API\\Form.API.csproj|solutionrelative:form.api\\controllers\\formscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B1D7A14-25A7-45DD-9155-414A18214A9E}|Form.Infrastructure\\Form.Infrastructure.csproj|e:\\form\\form.infrastructure\\migrations\\20250114201311_deletefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1D7A14-25A7-45DD-9155-414A18214A9E}|Form.Infrastructure\\Form.Infrastructure.csproj|solutionrelative:form.infrastructure\\migrations\\20250114201311_deletefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{539C6FDF-08B7-467E-98E8-F7E8DBEF8076}|Form.API\\Form.API.csproj|e:\\form\\form.api\\services\\implementations\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{539C6FDF-08B7-467E-98E8-F7E8DBEF8076}|Form.API\\Form.API.csproj|solutionrelative:form.api\\services\\implementations\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539C6FDF-08B7-467E-98E8-F7E8DBEF8076}|Form.API\\Form.API.csproj|e:\\form\\form.api\\controllers\\formscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539C6FDF-08B7-467E-98E8-F7E8DBEF8076}|Form.API\\Form.API.csproj|solutionrelative:form.api\\controllers\\formscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4624DF61-7566-40C5-A88F-09640F020216}|Form.Domain\\Form.Domain.csproj|e:\\form\\form.domain\\templates\\emailtemplates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 264,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,26 +38,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "20250114201311_DeleteFood.cs",
+              "DocumentMoniker": "E:\\Form\\Form.Infrastructure\\Migrations\\20250114201311_DeleteFood.cs",
+              "RelativeDocumentMoniker": "Form.Infrastructure\\Migrations\\20250114201311_DeleteFood.cs",
+              "ToolTip": "E:\\Form\\Form.Infrastructure\\Migrations\\20250114201311_DeleteFood.cs",
+              "RelativeToolTip": "Form.Infrastructure\\Migrations\\20250114201311_DeleteFood.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:13:12.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "EmailTemplates.cs",
               "DocumentMoniker": "E:\\Form\\Form.Domain\\Templates\\EmailTemplates.cs",
               "RelativeDocumentMoniker": "Form.Domain\\Templates\\EmailTemplates.cs",
               "ToolTip": "E:\\Form\\Form.Domain\\Templates\\EmailTemplates.cs",
               "RelativeToolTip": "Form.Domain\\Templates\\EmailTemplates.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T17:58:59.525Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "FormsController.cs",
               "DocumentMoniker": "E:\\Form\\Form.API\\Controllers\\FormsController.cs",
               "RelativeDocumentMoniker": "Form.API\\Controllers\\FormsController.cs",
               "ToolTip": "E:\\Form\\Form.API\\Controllers\\FormsController.cs",
               "RelativeToolTip": "Form.API\\Controllers\\FormsController.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAswEIAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAA9wDkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T17:48:34.228Z",
               "EditorCaption": ""

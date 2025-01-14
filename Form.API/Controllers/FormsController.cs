@@ -57,7 +57,6 @@ public class FormsController : ControllerBase
 
             var template = EmailTemplates.Send
                 .Replace("@VisitorName", request.VisitorName)
-                .Replace("@Food", request.Food)
                 .Replace("@PhoneNumber", request.PhoneNumber)
                 .Replace("@PartnerName", request.PartnerName)
                 .Replace("@ChildrenName", request.ChildrenName)
